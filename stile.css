@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+    color:red;
+    background-color: white;
+    border-radius:7px;
+    text-decoration: none;
+    padding:10px;
+    font-size:20px;
+}
+
+header a:hover{
+    text-decoration: none;
+    border-radius:7px;
+    background-color:  orange;
+}
+
+header {
+    background-color: black;
+    padding:50px;
+    margin-bottom:10px;
+}
+
+h1 {
+    text-align:center;
+    color:green;
+    font-size:50px;
+}
+
+p{
+    font-size:20px;
+    margin-left:35px ;
+}
+
+nav a {
+    margin-right: 20px;
+    text-decoration:none;
+    font-size:20px;
+    color:brown;
+}
+
+footer {
+    background-color:black;
+    padding:25px;
+}
+
+footer {
+    background-color:black;
+    padding:25px;
+}
+
+.social {
+    height:870px;
+}
